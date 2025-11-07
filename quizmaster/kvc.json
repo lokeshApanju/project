@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "correct": "New Delhi",
+    "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"]
+  },
+  {
+    "question": "Who is known as the Father of the Nation in India?",
+    "correct": "Mahatma Gandhi",
+    "options": ["Jawaharlal Nehru", "B. R. Ambedkar", "Mahatma Gandhi", "Sardar Patel"]
+  },
+  {
+    "question": "Which is the largest state of India by area?",
+    "correct": "Rajasthan",
+    "options": ["Maharashtra", "Uttar Pradesh", "Madhya Pradesh", "Rajasthan"]
+  },
+  {
+    "question": "Which Indian river is considered the holiest?",
+    "correct": "Ganga",
+    "options": ["Yamuna", "Godavari", "Ganga", "Narmada"]
+  },
+  {
+    "question": "What is the national animal of India?",
+    "correct": "Tiger",
+    "options": ["Lion", "Elephant", "Tiger", "Leopard"]
+  },
+  {
+    "question": "Which city is known as the 'Pink City'?",
+    "correct": "Jaipur",
+    "options": ["Udaipur", "Jodhpur", "Jaipur", "Bikaner"]
+  },
+  {
+    "question": "What is the currency of India?",
+    "correct": "Rupee",
+    "options": ["Taka", "Rupee", "Dollar", "Yen"]
+  },
+  {
+    "question": "Who was the first President of India?",
+    "correct": "Dr. Rajendra Prasad",
+    "options": ["Dr. Rajendra Prasad", "APJ Abdul Kalam", "R. Venkataraman", "Zakir Hussain"]
+  },
+  {
+    "question": "Which Indian festival is known as the festival of lights?",
+    "correct": "Diwali",
+    "options": ["Holi", "Diwali", "Navratri", "Eid"]
+  },
+  {
+    "question": "Which monument is located in Agra?",
+    "correct": "Taj Mahal",
+    "options": ["Qutub Minar", "India Gate", "Taj Mahal", "Charminar"]
+  }
+]
